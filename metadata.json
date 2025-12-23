@@ -1,0 +1,9 @@
+
+{
+  "name": "RumiLodge.online",
+  "description": "A mystical consultancy portal for dream interpretation, spiritual growth, and Sufi training. Users can consult with experts, manage their spiritual journey, and join monastery training programs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
